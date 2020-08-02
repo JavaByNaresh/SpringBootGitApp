@@ -10,6 +10,7 @@ public class AppRunner implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
     System.out.println("Hay Naresh Panda");
+    System.out.println("Naresh");
 	}
 
 }
